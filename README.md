@@ -76,4 +76,4 @@ Deep runs require switching focus from Attack to pure Defense.
 3.  **Run**: `python bot.py`
 4.  **Stop**: `Ctrl+C` in the terminal.
 
-Created by **Antigravity**. 🚀
+
